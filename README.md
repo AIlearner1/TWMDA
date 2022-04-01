@@ -23,10 +23,16 @@ scipy=1.7.1
 Files structures:
 
 ├─DomainNet1/
+
 │  ├─infograph/
-│  │  ├─images/
-│  ├─painting/
+
 │  │  ├─images/
 
+│  ├─painting/
+
+│  │  ├─images/
+
+
 Run:
+
 TWMDAtrain1.py .
